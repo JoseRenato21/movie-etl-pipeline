@@ -1,0 +1,22 @@
+name: movie_etl
+version: "1.0.0"
+config-version: 2
+profile: movie_etl
+
+model-paths: ["models"]
+seed-paths: ["seeds"]
+target-path: "target"
+clean-targets: ["target", "dbt_packages"]
+
+models:
+  movie_etl:
+    silver:
+      +materialized: table
+      +schema: silver
+    gold:
+      +materialized: table
+      +schema: gold
+
+seeds:
+  movie_etl:
+    +schema: silver

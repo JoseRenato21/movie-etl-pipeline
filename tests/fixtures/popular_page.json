@@ -1,0 +1,242 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/550_backdrop.jpg",
+      "genre_ids": [
+        18,
+        53
+      ],
+      "id": 550,
+      "original_language": "en",
+      "original_title": "Fight Club",
+      "overview": "Um homem insone encontra um vendedor de sabão e juntos criam um clube secreto de lutas.",
+      "popularity": 61.4,
+      "poster_path": "/550_poster.jpg",
+      "release_date": "1999-10-15",
+      "title": "Fight Club",
+      "video": false,
+      "vote_average": 8.4,
+      "vote_count": 29500
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/155_backdrop.jpg",
+      "genre_ids": [
+        18,
+        28,
+        80,
+        53
+      ],
+      "id": 155,
+      "original_language": "en",
+      "original_title": "The Dark Knight",
+      "overview": "Batman enfrenta o Coringa, um criminoso que mergulha Gotham no caos.",
+      "popularity": 58.9,
+      "poster_path": "/155_poster.jpg",
+      "release_date": "2008-07-16",
+      "title": "The Dark Knight",
+      "video": false,
+      "vote_average": 8.5,
+      "vote_count": 32800
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/27205_backdrop.jpg",
+      "genre_ids": [
+        28,
+        878,
+        12
+      ],
+      "id": 27205,
+      "original_language": "en",
+      "original_title": "Inception",
+      "overview": "Um ladrão que invade sonhos recebe a tarefa de plantar uma ideia na mente de um alvo.",
+      "popularity": 55.2,
+      "poster_path": "/27205_poster.jpg",
+      "release_date": "2010-07-15",
+      "title": "Inception",
+      "video": false,
+      "vote_average": 8.4,
+      "vote_count": 36100
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/157336_backdrop.jpg",
+      "genre_ids": [
+        12,
+        18,
+        878
+      ],
+      "id": 157336,
+      "original_language": "en",
+      "original_title": "Interstellar",
+      "overview": "Exploradores viajam por um buraco de minhoca em busca de um novo lar para a humanidade.",
+      "popularity": 52.7,
+      "poster_path": "/157336_poster.jpg",
+      "release_date": "2014-11-05",
+      "title": "Interstellar",
+      "video": false,
+      "vote_average": 8.5,
+      "vote_count": 35000
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/496243_backdrop.jpg",
+      "genre_ids": [
+        35,
+        53,
+        18
+      ],
+      "id": 496243,
+      "original_language": "ko",
+      "original_title": "기생충",
+      "overview": "Uma família pobre se infiltra na casa de uma família rica.",
+      "popularity": 47.8,
+      "poster_path": "/496243_poster.jpg",
+      "release_date": "2019-05-30",
+      "title": "Parasite",
+      "video": false,
+      "vote_average": 8.5,
+      "vote_count": 18700
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/129_backdrop.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        14
+      ],
+      "id": 129,
+      "original_language": "ja",
+      "original_title": "千と千尋の神隠し",
+      "overview": "Uma menina entra em um mundo de espíritos para salvar seus pais.",
+      "popularity": 44.3,
+      "poster_path": "/129_poster.jpg",
+      "release_date": "2001-07-20",
+      "title": "Spirited Away",
+      "video": false,
+      "vote_average": 8.5,
+      "vote_count": 16600
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/680_backdrop.jpg",
+      "genre_ids": [
+        53,
+        80
+      ],
+      "id": 680,
+      "original_language": "en",
+      "original_title": "Pulp Fiction",
+      "overview": "Histórias de criminosos de Los Angeles se cruzam em episódios violentos e irônicos.",
+      "popularity": 43.1,
+      "poster_path": "/680_poster.jpg",
+      "release_date": "1994-09-10",
+      "title": "Pulp Fiction",
+      "video": false,
+      "vote_average": 8.5,
+      "vote_count": 28900
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/238_backdrop.jpg",
+      "genre_ids": [
+        18,
+        80
+      ],
+      "id": 238,
+      "original_language": "en",
+      "original_title": "The Godfather",
+      "overview": "A saga de uma família mafiosa e a passagem do poder de pai para filho.",
+      "popularity": 41.6,
+      "poster_path": "/238_poster.jpg",
+      "release_date": "1972-03-14",
+      "title": "The Godfather",
+      "video": false,
+      "vote_average": 8.7,
+      "vote_count": 21400
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/603_backdrop.jpg",
+      "genre_ids": [
+        28,
+        878
+      ],
+      "id": 603,
+      "original_language": "en",
+      "original_title": "The Matrix",
+      "overview": "Um programador descobre que a realidade é uma simulação controlada por máquinas.",
+      "popularity": 40.2,
+      "poster_path": "/603_poster.jpg",
+      "release_date": "1999-03-30",
+      "title": "The Matrix",
+      "video": false,
+      "vote_average": 8.2,
+      "vote_count": 26200
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/372058_backdrop.jpg",
+      "genre_ids": [
+        16,
+        10749,
+        18
+      ],
+      "id": 372058,
+      "original_language": "ja",
+      "original_title": "君の名は。",
+      "overview": "Dois adolescentes trocam de corpo e tentam se encontrar.",
+      "popularity": 38.9,
+      "poster_path": "/372058_poster.jpg",
+      "release_date": "2016-08-26",
+      "title": "Your Name.",
+      "video": false,
+      "vote_average": 8.5,
+      "vote_count": 11900
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/244786_backdrop.jpg",
+      "genre_ids": [
+        18,
+        10402
+      ],
+      "id": 244786,
+      "original_language": "en",
+      "original_title": "Whiplash",
+      "overview": "Um jovem baterista é levado ao limite por um professor implacável.",
+      "popularity": 37.5,
+      "poster_path": "/244786_poster.jpg",
+      "release_date": "2014-10-10",
+      "title": "Whiplash",
+      "video": false,
+      "vote_average": 8.4,
+      "vote_count": 15700
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/361743_backdrop.jpg",
+      "genre_ids": [
+        28,
+        18
+      ],
+      "id": 361743,
+      "original_language": "en",
+      "original_title": "Top Gun: Maverick",
+      "overview": "Maverick volta para treinar uma nova geração de pilotos em uma missão arriscada.",
+      "popularity": 36.8,
+      "poster_path": "/361743_poster.jpg",
+      "release_date": "2022-05-24",
+      "title": "Top Gun: Maverick",
+      "video": false,
+      "vote_average": 8.2,
+      "vote_count": 9300
+    }
+  ],
+  "total_pages": 500,
+  "total_results": 10000
+}

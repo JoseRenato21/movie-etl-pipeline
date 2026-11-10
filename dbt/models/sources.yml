@@ -1,0 +1,13 @@
+version: 2
+
+sources:
+  - name: bronze
+    description: Dado cru da API do TMDB, uma página de resultados por linha.
+    schema: public
+    tables:
+      - name: bronze_movies
+        columns:
+          - name: data
+            description: Resposta JSON completa de uma página de /movie/popular.
+          - name: extracted_at
+            description: Momento em que a página foi gravada.

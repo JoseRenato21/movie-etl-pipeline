@@ -1,0 +1,48 @@
+version: 2
+
+models:
+  - name: silver_movies
+    description: Um filme por linha, com tipos corretos e sem duplicatas.
+    columns:
+      - name: movie_id
+        tests: [unique, not_null]
+      - name: title
+        tests: [not_null]
+      - name: vote_average
+        tests:
+          - value_between:
+              min: 0
+              max: 10
+      - name: popularity
+        tests: [not_null]
+
+  - name: silver_movie_genres
+    description: Relação entre filmes e gêneros.
+    columns:
+      - name: movie_id
+        tests:
+          - not_null
+          - relationships:
+              to: ref('silver_movies')
+              field: movie_id
+
+  - name: gold_popularity_ranking
+    description: Ranking dos filmes por popularidade.
+    columns:
+      - name: movie_id
+        tests: [unique, not_null]
+
+  - name: gold_genre_summary
+    columns:
+      - name: genre_name
+        tests: [unique, not_null]
+
+  - name: gold_release_year_summary
+    columns:
+      - name: release_year
+        tests: [unique, not_null]
+
+  - name: gold_language_summary
+    columns:
+      - name: original_language
+        tests: [unique, not_null]
