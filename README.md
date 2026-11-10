@@ -70,8 +70,6 @@ make dbt-run
 make dbt-test
 ```
 
-Os valores da amostra são ilustrativos e não refletem o ranking atual do TMDB.
-
 ### Se você já tem um PostgreSQL
 
 Ajuste `DB_HOST`, `DB_PORT`, `DB_NAME`, `DB_USER` e `DB_PASSWORD` no `.env` e pule o `make up`.
